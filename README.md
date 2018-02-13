@@ -12,6 +12,10 @@
 ## Steps Visualization 
 <img src="rsc_img/1.jpg" width="240">
 <img src="rsc_img/2.jpg" width="240">
+<img src="rsc_img/3.jpg" width="240">
+<img src="rsc_img/4.jpg" width="240">
+<img src="rsc_img/5.jpg" width="240">
+<img src="rsc_img/6.jpg" width="240">
 
 ## Acknowledgement 
 * UoA CMPUT 412 line following competition 
