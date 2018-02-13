@@ -10,7 +10,7 @@
 * ROI for road only
 * Hough Lines
 ## Steps Visualization 
-❮img src="rsc_img/1.jpg" width="100" ❯
+<img src="rsc_img/1.jpg" width="100" >
 
 ## Acknowledgement 
 * UoA CMPUT 412 line following competition 
