@@ -11,5 +11,5 @@
 * Hough Lines
 
 ## Acknowledgement 
-* UoA CMPUT 412 line following competetion 
+* UoA CMPUT 412 line following competition 
 * Udacity Self Driving Car Course 
