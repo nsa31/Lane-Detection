@@ -1,6 +1,6 @@
 # Lane-Detection
 
-##Steps
+## Steps
 * Convert to Grayscale
 * Convert to HSV
 * Segment Based on lane color (white/yellow)
